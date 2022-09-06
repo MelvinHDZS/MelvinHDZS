@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 Fronted Developer since 2021 and ready to build the future. I have participated in the Platzi Master program cohort 9 where I've learned the best practices about work-flows and methodologies to build products in the tech industry. My projects are based on React-JS. Also have interest in UI-UX methodologies and tools like Figma, wireframes, basically all the full development cycle.
 
@@ -8,7 +8,16 @@ Fronted Developer since 2021 and ready to build the future. I have participated 
 
 🎈 I have other interests than just tech: audiovisual topics, cinema, music, martial arts.
 
-👾 Some technologies I use:
+## 👾 Some technologies I use:
+![CSS3 (3)](https://user-images.githubusercontent.com/80364422/188748922-660a0bf1-30fd-42ee-8c98-1c2270e8f5c4.svg)
+![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145](https://user-images.githubusercontent.com/80364422/188748828-1c598458-f3ad-4ba4-9bc0-47cff8442e2e.svg)
+![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/80364422/188748830-700dff5e-7bc1-4013-a694-8a1f8b355e30.svg)
+![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/80364422/188748831-3395f28d-4f38-4744-907e-33a12b7ba2ee.svg)
+![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/80364422/188748832-e77101b6-2bd3-4efd-8d38-866ee2a3340a.svg)
+![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536173732d4343363639393f7374796c653d666f722d7468652d6261646765266c6f676f3d73617373266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/80364422/188748834-52dbedbd-e9a0-47a9-956f-272525f8c86f.svg)
+![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622532302d2532333030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/80364422/188748838-3f84c2f6-f977-4725-8cae-19fed84de3c1.svg)
+![figma 2](https://user-images.githubusercontent.com/80364422/188749168-e93d7195-36d0-4952-851e-c974818179df.svg)
+
 <!--
 **MelvinHDZS/MelvinHDZS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
