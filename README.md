@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Fronted Developer since 2021 and ready to build the future. I have participated in the Platzi Master program cohort 9 where I've learned the best practices about work-flows and methodologies to build products in the tech industry. My projects are based on React-JS. Also have interest in UI-UX methodologies and tools like Figma, wireframes, basically all the full development cycle.
+
+🤑 Now I'm learning Next.js | Crypto topics | System Design
+
+🎮 I love music, I can play drums, love videogames like Apex Legens (Anthony_29MX) search me to rank up.
+
+🎈 I have other interests than just tech: audiovisual topics, cinema, music, martial arts.
+
+👾 Some technologies I use:
 <!--
 **MelvinHDZS/MelvinHDZS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
