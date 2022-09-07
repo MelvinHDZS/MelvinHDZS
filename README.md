@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Fronted Developer since 2021 and ready to build the future. I have participated in the Platzi Master program cohort 9 where I've learned the best practices about work-flows and methodologies to build products in the tech industry. My projects are based on React-JS. Also have interest in UI-UX methodologies and tools like Figma, wireframes, basically all the full development cycle.
+Fronted Developer since 2021 and ready to build the future. I have participated in the [Platzi Master](https://platzi.com/blog/platzi-master-que-es/)[](https://platzi.com/blog/platzi-master-que-es/) program cohort 9 where I've learned the best practices about work-flows and methodologies to build products in the tech industry. My projects are based on React-JS. Also have interest in UI-UX methodologies and tools like Figma, wireframes, basically all the full development cycle.
 
 🤑 Now I'm learning Next.js | Crypto topics | System Design
 
