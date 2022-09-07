@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello there, I'm Melvin 👋
 
 Fronted Developer since 2021 and ready to build the future. I have participated in the [Platzi Master](https://platzi.com/blog/platzi-master-que-es/)[](https://platzi.com/blog/platzi-master-que-es/) program cohort 9 where I've learned the best practices about work-flows and methodologies to build products in the tech industry. My projects are based on React-JS. Also have interest in UI-UX methodologies and tools like Figma, wireframes, basically all the full development cycle.
 
