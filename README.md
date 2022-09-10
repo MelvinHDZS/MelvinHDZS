@@ -18,6 +18,32 @@ Fronted Developer since 2021 and ready to build the future. I have participated 
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622532302d2532333030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/80364422/188748838-3f84c2f6-f977-4725-8cae-19fed84de3c1.svg)
 ![figma 2](https://user-images.githubusercontent.com/80364422/188749168-e93d7195-36d0-4952-851e-c974818179df.svg)
 
+
+## 🏆 My Projects:
+
+- [Furniture Store](https://github.com/MelvinHDZS/Platzi-Furniture-Store-Curso-Practico-React.js-)
+
+A website store, is connected to an API where get the products and show you a cart where you can add the products you want, the price and you can also eliminate products from the cart.
+
+- [My website Portfolio](https://github.com/MelvinHDZS/serracode-portfolio)
+
+It's my portfolio where I'm showing the most relevante projects that have. 
+ Coming soon !!! 
+I'm working in this project right now.
+
+- My own Blog
+
+ Coming soon !!! 
+I'm working in this project right now.
+
+## 😎 Contact me:
+I'm available for job offers.
+
+- Reading about tech and crazy topics of crypto in: [Twitter](https://twitter.com/serra_code)
+
+- Always available in: [Linkedin](https://www.linkedin.com/in/serracode/)
+
+- My Gmail is always open: antonio.techmx@gmail.com
 <!--
 **MelvinHDZS/MelvinHDZS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
